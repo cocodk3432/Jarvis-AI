@@ -7,7 +7,7 @@ Welcome to the Python Voice Assistant project! This is a voice-activated assista
 - Check the current time
 - Open websites (e.g., YouTube, Google)
 - Search Wikipedia for information
-- Get the latest weather information for a specific city
+- Get the latest weather information for a specific city ( use own api key )
 - Engage in interactive conversations
 - Extend functionality by adding more commands
 
